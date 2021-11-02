@@ -31,9 +31,9 @@ example_organisation.getSubOrdinates(1)
 ```
 
 ### Tests against Deputy's Sample Inputs (see appendices)
-1. Clone the repo to your workspace
+1. Clone the repo to your workspace (or download as .zip)
 ```
-$ git clone <github_path>
+$ git clone git@github.com:will-byte/deputy_technica_challenge.git
 ```
 1. From the workspace in your terminal run: 
 ```
